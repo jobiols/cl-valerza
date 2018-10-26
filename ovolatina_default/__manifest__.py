@@ -27,7 +27,6 @@
     'author': 'jeo Software',
     'depends': [
 
-        # para la localizacion argentina
     ],
     'data': [
     ],
